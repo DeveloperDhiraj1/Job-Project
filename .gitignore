@@ -1,0 +1,70 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+coverage-*.json
+
+# Build / output
+dist/
+build/
+.cache/
+.parcel-cache/
+public/
+/.next/
+
+# Environment files
+.env
+.env.*.local
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache
+.npm
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.tgz
+.sass-cache
+npm-debug.log*
+yarn-error.log*
+
+# VS Code workspace settings (keep settings if you want by uncommenting)
+#.vscode/*
+#!.vscode/settings.json
+#!.vscode/tasks.json
+#!.vscode/launch.json
+#!.vscode/extensions.json
+
